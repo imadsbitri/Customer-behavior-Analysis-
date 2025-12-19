@@ -42,6 +42,8 @@ Use consumer shopping data to:
   - Customer segmentation patterns
   - Discount and seasonal effects on sales
   - Loyalty and repeat purchase behavior
+ 
+![Power BI Dashboard](Screenshot%202025-12-19%20083006.png)
 
 ## Business Impact
 - Provides actionable insights for **customer targeting and engagement**
